@@ -1,0 +1,10 @@
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\bin\Release\cipher.exe.config
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\bin\Release\cipher.exe.manifest
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\bin\Release\cipher.application
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\bin\Release\cipher.exe
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\bin\Release\cipher.pdb
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\obj\Release\cipher.csproj.CoreCompileInputs.cache
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\obj\Release\cipher.exe.manifest
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\obj\Release\cipher.application
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\obj\Release\cipher.exe
+Q:\Files\Programming\Important_Stuff\Learning C#\encrypt\cipher\cipher\obj\Release\cipher.pdb
